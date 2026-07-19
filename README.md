@@ -107,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/varshitaneyyila/code/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/varshitaneyyila/code/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/varshitaneyyila/code/tree/master/0875-koko-eating-bananas) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/varshitaneyyila/code/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/varshitaneyyila/code/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

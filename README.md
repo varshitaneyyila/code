@@ -67,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/varshitaneyyila/code/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/varshitaneyyila/code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/varshitaneyyila/code/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/varshitaneyyila/code/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/varshitaneyyila/code/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/varshitaneyyila/code/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/varshitaneyyila/code/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/varshitaneyyila/code/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/varshitaneyyila/code/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/varshitaneyyila/code/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/varshitaneyyila/code/tree/master/0234-palindrome-linked-list) |
 ## Merge Sort
 |  |

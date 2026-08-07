@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/varshitaneyyila/code/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/varshitaneyyila/code/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/varshitaneyyila/code/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/varshitaneyyila/code/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/varshitaneyyila/code/tree/master/0231-power-of-two) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/varshitaneyyila/code/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/varshitaneyyila/code/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/varshitaneyyila/code/tree/master/0231-power-of-two) |
 ## Sorting

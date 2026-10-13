@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/varshitaneyyila/code/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/varshitaneyyila/code/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/varshitaneyyila/code/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/varshitaneyyila/code/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/varshitaneyyila/code/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/varshitaneyyila/code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/varshitaneyyila/code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/varshitaneyyila/code/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/varshitaneyyila/code/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/varshitaneyyila/code/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/varshitaneyyila/code/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varshitaneyyila/code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/varshitaneyyila/code/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/varshitaneyyila/code/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/varshitaneyyila/code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->

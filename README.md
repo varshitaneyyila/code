@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/varshitaneyyila/code/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/varshitaneyyila/code/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/varshitaneyyila/code/tree/master/1004-max-consecutive-ones-iii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/varshitaneyyila/code/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/varshitaneyyila/code/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/varshitaneyyila/code/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/varshitaneyyila/code/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/varshitaneyyila/code/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/varshitaneyyila/code/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/varshitaneyyila/code/tree/master/0242-valid-anagram) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/varshitaneyyila/code/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/varshitaneyyila/code/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/varshitaneyyila/code/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/varshitaneyyila/code/tree/master/0509-fibonacci-number) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/varshitaneyyila/code/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Simulation
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/varshitaneyyila/code/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/varshitaneyyila/code/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/varshitaneyyila/code/tree/master/1004-max-consecutive-ones-iii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/varshitaneyyila/code/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## String
 |  |
 | ------- |
